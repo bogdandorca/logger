@@ -1,0 +1,9 @@
+{
+  "name": "exologger",
+  "version": "1.0.0",
+  "description": "ExoLogger",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Bogdan Dorca",
+  "license": "ISC"
+}
